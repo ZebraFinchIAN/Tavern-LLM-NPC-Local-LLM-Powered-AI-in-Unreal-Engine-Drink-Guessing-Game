@@ -1,0 +1,46 @@
+# Unreal Engine
+################
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+obj/
+
+# Visual Studio
+###############
+*.VC.db
+*.VC.VC.opendb
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.vs/
+
+# Rider
+#######
+.idea/
+
+# Mac
+#####
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Marketplace ve Büyük İçerik Klasörleri
+# Bu klasörler, büyük boyutları veya lisansları 
+# nedeniyle depoya dahil edilmeyecektir.
+#----------------------------------------------------
+/Content/Fantasy_Pack/
+/Content/Primitive_Characters_Pack/
+/Content/RestaurantScene/
+/Content/StarterContent/
+/Content/ThirdPerson/
